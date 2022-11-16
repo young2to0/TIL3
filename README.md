@@ -35,3 +35,11 @@ dtm = cv.fit_transform(df.Plot)
 </details>
 
 
+<details>
+<summary>20221116</summary>
+<div markdown="1">
+
+머신러닝&딥러닝 스터디 시작
+
+</div>
+</details>
