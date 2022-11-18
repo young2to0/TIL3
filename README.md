@@ -43,3 +43,27 @@ dtm = cv.fit_transform(df.Plot)
 
 </div>
 </details>
+
+
+<details>
+<summary>20221117</summary>
+<div markdown="1">
+
+넘블 프로젝트 
+-마진신호등을 위한 데이터 수집 
+-데이터를 통해 무엇을 구현할 것인지를 구체화
+
+
+</div>
+</details>
+
+<details>
+<summary>20221118</summary>
+<div markdown="1">
+
+넘블 프로젝트 
+-가격전략 : 비용가치, 경쟁가치, 브랜드 가
+
+</div>
+</details>
+
