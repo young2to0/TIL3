@@ -62,7 +62,7 @@ dtm = cv.fit_transform(df.Plot)
 <div markdown="1">
 
 넘블 프로젝트 
--가격전략 : 비용가치, 경쟁가치, 브랜드 가
+-가격전략 : 비용가치, 경쟁가치, 브랜드 가치
 
 </div>
 </details>
