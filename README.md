@@ -72,3 +72,28 @@ dtm = cv.fit_transform(df.Plot)
 </div>
 </details>
 
+
+<details>
+<summary>20221121</summary>
+<div markdown="1">
+
+넘블 프로젝트 
+
+  ```
+  * 넘블 서비스 질문
+  * 넘블 프로젝트 구체화
+  ```
+
+</div>
+</details>
+
+<details>
+<summary>20221122</summary>
+<div markdown="1">
+
+* SQL스터디 문제 풀이
+* 프로젝트 정리
+* 넘블 기획서 정리
+
+</div>
+</details>
