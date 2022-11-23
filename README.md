@@ -97,3 +97,12 @@ dtm = cv.fit_transform(df.Plot)
 
 </div>
 </details>
+
+<details>
+<summary>20221123</summary>
+<div markdown="1">
+
+* 넘블 기획서 작성
+
+</div>
+</details>
